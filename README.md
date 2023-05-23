@@ -9,7 +9,9 @@ The objectif of this project was to create a software using machine learning to 
 We used the DeXpression CNN model from this [paper](https://arxiv.org/pdf/1509.05371v2.pdf). 
 We trained the model on the MMI Facial Expression Database, which is a database of videos of people expressing emotions ([link to the paper](http://www.lrec-conf.org/proceedings/lrec2010/workshops/W24.pdf#page=73)).
 
-We also used un already trained implementation of the VGG16 model to compare the results with our model.
+We also used un already trained implementation of the VGGFace model to compare the results with our model.
+
+You can read the full report of the project [here](assets/Rapport_Projet_TI_FER_AULOY_DAHMOUNI_DINH_DUPONT_ISOARD_MADLENO_TOMASINO.pdf).
 
 ## Setup
 
@@ -69,11 +71,11 @@ We also make a graph about the inference time of the model:
 
 ## Authors
 
-- [Christian Tomasino](https://github.com/ChrisTom-94)
-- [Maxime Dupont](https://github.com/maxime-dupont01)
-- Anthony Madaleno
-- Amine Mohamed Dahmouni
-- Rémy Auloy
-- Boris Dihn
-- Quentin Isoard
+- [Christian TOMASINO](https://github.com/ChrisTom-94)
+- [Maxime DUPONT](https://github.com/maxime-dupont01)
+- Antony MADALENO
+- [Mohamed Amine DAHMOUNI](https://github.com/Enimaea)
+- [Rémy AULOY](https://github.com/Taarjax)
+- [Boris DINH](https://github.com/Kali2141)
+- [Quentin ISOARD](https://github.com/oxydevvv)
 
